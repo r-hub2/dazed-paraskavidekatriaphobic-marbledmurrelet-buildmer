@@ -1,0 +1,5 @@
+"index","grouping","term","code","block","ok","score","Iteration","LRT"
+NA,NA,"1","1","NA NA 1",TRUE,NA,1,NA
+NA,NA,"angle","angle","NA NA angle",TRUE,-17.4622099948794,1,4.8376302389234e-10
+NA,NA,"s(replicate, bs = ""re"")","s(replicate, bs = ""re"")","NA NA s(replicate, bs = ""re"")",TRUE,-9.38980730235181,1,8.35446903647537e-05
+NA,NA,"s(recipe, bs = ""re"")","s(recipe, bs = ""re"")","NA NA s(recipe, bs = ""re"")",TRUE,-6.23087144643799,1,0.0019677363724019
